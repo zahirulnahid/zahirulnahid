@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... App developing
 - 💞️ I’m looking to collaborate on ...Flutter
-- 📫 How to reach me ...[facebook profile](fb.me/nahid34c)
+- 📫 How to reach me ...[Facebook](fb.me/nahid34c) [Instagram](instagram.com/zahirulnahid)
 
 <!---
 zahirulnahid/zahirulnahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
